@@ -1,5 +1,9 @@
+body {
+    background-image: url('../img/prism.png');
+}
+
 h1 {
-    color: blue;
+    color: white;
 }
 
 .italic {

@@ -5,3 +5,12 @@ h1 {
 .italic {
     font-style: italic;
 }
+
+p, h1, h2 {
+    font-style: normal;
+    font-family: sans-serif;
+}
+
+h1 {
+    font-family: monospace;
+}
